@@ -1,0 +1,22 @@
+{
+  "name": "newnode",
+  "version": "1.0.0",
+  "description": "Репазиторий с кодами на nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm Start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AleksejBas/newNode.git"
+  },
+  "author": "Aleksey_Bogatishchev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksejBas/newNode/issues"
+  },
+  "homepage": "https://github.com/AleksejBas/newNode#readme",
+  "dependencies": {
+    "await": "^0.2.6"
+  }
+}
